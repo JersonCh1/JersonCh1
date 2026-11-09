@@ -2,11 +2,11 @@
 
 ## Jerson Ernesto Chura Pacci
 
-Fundador y CEO de **[Chakana Studio Software](https://www.chakanastudiosoftware.com)**, estudio de desarrollo de software de Arequipa, Perú.
+Fundador y CEO de **[Chakana Studio Software](https://www.chakanastudiosoftware.com)**, estudio de software a medida para empresas de todo el mundo.
 
 Construyo software que las empresas usan todos los días: plataformas web, apps móviles, paneles de gestión, pagos en línea, facturación electrónica SUNAT y asistentes de WhatsApp. Me encargo de todo el proyecto, de la arquitectura al despliegue y el soporte en producción.
 
-[Sitio web](https://www.chakanastudiosoftware.com) · [LinkedIn](https://www.linkedin.com/in/jersonchura) · [Chakana en LinkedIn](https://www.linkedin.com/company/chakana-studio-software) · [Casos](https://www.chakanastudiosoftware.com/casos)
+[Mi página](https://www.chakanastudiosoftware.com/jerson-chura) · [Sitio web](https://www.chakanastudiosoftware.com) · [LinkedIn](https://www.linkedin.com/in/jersonchura) · [Chakana en LinkedIn](https://www.linkedin.com/company/chakana-studio-software) · [Casos](https://www.chakanastudiosoftware.com/casos)
 
 ---
 
